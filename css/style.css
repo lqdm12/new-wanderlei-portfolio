@@ -96,7 +96,7 @@ main, nav, footer{position:relative;z-index:1}
 .hero h1{font-family:var(--serif);font-size:clamp(2.6rem,6.5vw,5rem);font-weight:300;letter-spacing:0.01em;line-height:1.08;margin-bottom:1.4rem;color:var(--papel)}
 .hero h1 em{font-style:italic;font-weight:400;color:var(--gold)}
 .hero-name{font-family:var(--serif);font-style:italic;font-size:clamp(0.95rem,1.6vw,1.2rem);font-weight:400;letter-spacing:0.04em;color:var(--gold);margin-bottom:1.6rem}
-.hero-sub{font-family:var(--sans);font-size:0.72rem;font-weight:300;letter-spacing:0.22em;text-transform:uppercase;color:var(--papel-deep);margin-bottom:2.2rem}
+.hero-sub{font-family:var(--sans);font-size:0.72rem;font-weight:300;letter-spacing:0.22em;text-transform:uppercase;/*color:var(--papel-deep)*/;margin-bottom:2.2rem}
 .hero-line{width:1px;height:52px;background:linear-gradient(to bottom,var(--gold),transparent);margin:0 auto;opacity:0;animation:grow 2s 1.6s ease forwards}
 @keyframes grow{to{opacity:0.55}}
 
