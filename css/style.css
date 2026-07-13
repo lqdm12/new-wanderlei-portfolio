@@ -242,7 +242,7 @@ footer::before{content:'';position:absolute;top:0;left:50%;transform:translateX(
 .ft-divider{width:36px;height:1px;background:var(--gold);margin:0 auto 2.4rem;opacity:0.6}
 .ft-contacts{display:grid;grid-template-columns:repeat(2,minmax(200px,1fr));gap:2rem;max-width:580px;margin:0 auto 2.5rem;text-align:left}
 .ft-contacts > div{border-left:1px solid var(--gold-soft);padding-left:1.4rem}
-.ft-label{font-family:var(--sans);font-size:0.6rem;font-weight:400;letter-spacing:0.3em;text-transform:uppercase;color:var(--gold);display:block;margin-bottom:0.4rem}
+.ft-label{font-family:var(--sans);font-size:0.7rem;font-weight:400;letter-spacing:0.3em;text-transform:uppercase;color:var(--gold);display:block;margin-bottom:0.4rem}
 .ft-val{font-family:var(--serif);font-style:italic;font-size:1rem;color:var(--papel)}
 .ft-val a{color:var(--papel);text-decoration:none;border-bottom:1px solid transparent;transition:border-color 0.3s}
 .ft-val a:hover{border-color:var(--gold)}
