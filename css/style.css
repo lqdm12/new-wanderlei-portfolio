@@ -163,7 +163,7 @@ main, nav, footer{position:relative;z-index:1}
 .rep-cap{margin-top:1rem;font-family:var(--serif);font-style:italic;font-size:1.05rem;color:var(--gold);letter-spacing:0.02em}
 .rep-cap-sub{font-family:var(--sans);font-size:0.7rem;font-weight:300;letter-spacing:0.18em;text-transform:uppercase;color:var(--papel-muted);margin-top:0.3rem}
 .rep-side .rep-cap{font-size:0.9rem;margin-top:0.7rem}
-.rep-side .rep-cap-sub{font-size:0.6rem}
+.rep-side .rep-cap-sub{font-size:0.7rem}
 
 .rep-intro{font-family:var(--sans);font-size:0.95rem;font-weight:300;color:var(--papel-soft);line-height:1.85;max-width:680px;margin:0 auto 3rem;text-align:center;padding:0 2rem}
 
