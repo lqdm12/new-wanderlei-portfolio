@@ -136,7 +136,7 @@ main, nav, footer{position:relative;z-index:1}
 .services-list-items li:last-child{border-bottom:none}
 .services-list-items li::before{content:'❦';color:var(--gold);font-size:0.85rem;width:1.5rem;display:inline-block}
 .services-list-items .item-name{flex:1;font-weight:400}
-.services-list-items .item-desc{color:var(--papel-muted);font-size:0.85rem;font-style:italic;font-family:var(--serif)}
+.services-list-items .item-desc{color:var(--papel-muted);font-size:1.2rem;font-style:;font-family:var(--serif)}
 
 .stats{display:flex;gap:3rem;margin-top:2.4rem;padding-top:2rem;border-top:1px solid var(--gold-soft)}
 .stat .num{font-family:var(--serif);font-size:2.4rem;font-weight:300;color:var(--gold);display:block;line-height:1}
