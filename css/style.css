@@ -230,7 +230,7 @@ main, nav, footer{position:relative;z-index:1}
 .proj-specs{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
 .spec{text-align:center}
 .spec-val{font-family:var(--serif);font-style:italic;font-size:1.2rem;color:var(--gold);display:block;line-height:1;margin-bottom:0.4rem}
-.spec-lbl{font-family:var(--sans);font-size:0.58rem;font-weight:300;letter-spacing:0.24em;text-transform:uppercase;color:var(--papel-muted)}
+.spec-lbl{font-family:var(--sans);font-size:0.7rem;font-weight:300;letter-spacing:0.24em;text-transform:uppercase;color:var(--papel-muted)}
 
 /* ─── FOOTER ─── */
 footer{text-align:center;padding:6rem 2rem 4rem;border-top:1px solid var(--gold-soft);margin-top:6rem;position:relative}
