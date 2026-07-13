@@ -161,7 +161,7 @@ main, nav, footer{position:relative;z-index:1}
 .rep-side-img img{width:100%;height:100%;object-fit:cover;filter:brightness(0.9) contrast(1.05) sepia(0.08);transition:filter 0.6s,transform 1s}
 .rep-side-item:hover .rep-side-img img{filter:brightness(1) contrast(1.08);transform:scale(1.02)}
 .rep-cap{margin-top:1rem;font-family:var(--serif);font-style:italic;font-size:1.05rem;color:var(--gold);letter-spacing:0.02em}
-.rep-cap-sub{font-family:var(--sans);font-size:0.66rem;font-weight:300;letter-spacing:0.18em;text-transform:uppercase;color:var(--papel-muted);margin-top:0.3rem}
+.rep-cap-sub{font-family:var(--sans);font-size:0.7rem;font-weight:300;letter-spacing:0.18em;text-transform:uppercase;color:var(--papel-muted);margin-top:0.3rem}
 .rep-side .rep-cap{font-size:0.9rem;margin-top:0.7rem}
 .rep-side .rep-cap-sub{font-size:0.6rem}
 
