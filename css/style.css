@@ -342,7 +342,7 @@ footer::before{content:'';position:absolute;top:0;left:50%;transform:translateX(
 }
 .video-feature-label{
   font-family:var(--sans);
-  font-size:0.62rem;
+  font-size:0.72rem;
   font-weight:400;
   letter-spacing:0.34em;
   text-transform:uppercase;
