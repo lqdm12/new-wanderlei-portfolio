@@ -299,7 +299,7 @@ footer::before{content:'';position:absolute;top:0;left:50%;transform:translateX(
 .video-meta{margin-top:1rem;text-align:center}
 .video-title{
   font-family:var(--serif);
-  font-style:italic;
+  font-style:normal;
   font-size:1.15rem;
   color:var(--gold);
   letter-spacing:0.02em;
