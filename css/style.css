@@ -444,7 +444,7 @@ footer::before{content:'';position:absolute;top:0;left:50%;transform:translateX(
 }
 .proj-cta-link{
   font-family:var(--serif);
-  font-style:italic;
+  font-style:normal;
   font-size:0.95rem;
   color:var(--papel-muted);
   text-decoration:none;
