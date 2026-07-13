@@ -238,7 +238,7 @@ footer::before{content:'';position:absolute;top:0;left:50%;transform:translateX(
 .ft-mark{font-family:var(--serif);font-style:italic;font-size:2.4rem;color:var(--gold);margin-bottom:1.5rem;line-height:1;opacity:0.85}
 .ft-name{font-family:var(--serif);font-size:1.8rem;font-weight:300;letter-spacing:0.04em;color:var(--papel);margin-bottom:0.4rem}
 .ft-name em{font-style:italic;color:var(--gold)}
-.ft-role{font-family:var(--sans);font-size:0.66rem;font-weight:300;letter-spacing:0.26em;text-transform:uppercase;color:var(--papel-muted);margin-bottom:2.4rem}
+.ft-role{font-family:var(--sans);font-size:0.76rem;font-weight:300;letter-spacing:0.26em;text-transform:uppercase;color:var(--papel-muted);margin-bottom:2.4rem}
 .ft-divider{width:36px;height:1px;background:var(--gold);margin:0 auto 2.4rem;opacity:0.6}
 .ft-contacts{display:grid;grid-template-columns:repeat(2,minmax(200px,1fr));gap:2rem;max-width:580px;margin:0 auto 2.5rem;text-align:left}
 .ft-contacts > div{border-left:1px solid var(--gold-soft);padding-left:1.4rem}
