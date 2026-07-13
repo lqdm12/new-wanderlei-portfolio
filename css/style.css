@@ -106,7 +106,7 @@ main, nav, footer{position:relative;z-index:1}
 .spacer-sm{height:3rem}
 
 /* ─── SECTION PRIMITIVES ─── */
-.label{font-family:var(--sans);font-size:0.62rem;font-weight:400;letter-spacing:0.42em;text-transform:uppercase;color:var(--gold);text-align:center;display:block}
+.label{font-family:var(--sans);font-size:0.7rem;font-weight:400;letter-spacing:0.42em;text-transform:uppercase;color:var(--gold);text-align:center;display:block}
 .heading{font-family:var(--serif);font-size:clamp(2rem,3.8vw,3rem);font-weight:300;text-align:center;line-height:1.18;letter-spacing:0.005em;margin:1rem 0 1.4rem;color:var(--papel)}
 .heading em{font-style:italic;color:var(--gold);font-weight:400}
 .center-col{max-width:680px;margin:0 auto;padding:0 2rem}
