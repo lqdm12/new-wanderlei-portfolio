@@ -122,7 +122,7 @@ main, nav, footer{position:relative;z-index:1}
 .portrait-frame::after{content:'';position:absolute;bottom:-22px;left:-12px;width:60px;height:1px;background:var(--gold)}
 .portrait-tag{margin-top:2.5rem;text-align:center}
 .portrait-tag-line{font-family:var(--serif);font-style:italic;font-size:1.05rem;color:var(--gold);margin-bottom:0.3rem}
-.portrait-tag-sub{font-family:var(--sans);font-size:0.65rem;font-weight:300;letter-spacing:0.22em;text-transform:uppercase;color:var(--papel-muted)}
+.portrait-tag-sub{font-family:var(--sans);font-size:0.7rem;font-weight:300;letter-spacing:0.22em;text-transform:uppercase;color:var(--papel-muted)}
 
 .about-bio{font-family:var(--sans);font-weight:300}
 .about-bio p{font-size:0.96rem;color:var(--papel-soft);margin-bottom:1.1rem;line-height:1.85}
