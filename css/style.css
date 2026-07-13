@@ -223,7 +223,7 @@ main, nav, footer{position:relative;z-index:1}
 .acts{display:grid;grid-template-columns:1fr 1fr;gap:2rem;padding:1.8rem 0;border-top:1px solid var(--gold-soft);border-bottom:1px solid var(--gold-soft);margin-bottom:1.8rem}
 .act{position:relative;padding-left:2rem}
 .act-num{position:absolute;left:0;top:0;font-family:var(--serif);font-style:italic;font-size:1.4rem;color:var(--gold);line-height:1}
-.act-label{font-family:var(--sans);font-size:0.58rem;font-weight:400;letter-spacing:0.3em;text-transform:uppercase;color:var(--papel-muted);margin-bottom:0.5rem}
+.act-label{font-family:var(--sans);font-size:0.7rem;font-weight:400;letter-spacing:0.3em;text-transform:uppercase;color:var(--papel-muted);margin-bottom:0.5rem}
 .act-name{font-family:var(--serif);font-style:italic;font-size:1.1rem;font-weight:400;color:var(--papel);margin-bottom:0.5rem}
 .act-desc{font-family:var(--sans);font-size:0.82rem;font-weight:300;color:var(--papel-soft);line-height:1.7}
 
